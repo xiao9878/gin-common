@@ -1,4 +1,4 @@
-package res
+package gin_common
 
 type ResCode int64
 
