@@ -1,4 +1,4 @@
-module github.com/xiao/gin-common
+module github.com/xiao9878/gin-common
 
 go 1.15
 
